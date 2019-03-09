@@ -1,0 +1,5 @@
+
+https://github.com/GoogleCloudPlatform/training-data-analyst
+
+Third wave of cloud - managed services (eg:- BigQuery)
+
